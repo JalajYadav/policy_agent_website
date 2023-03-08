@@ -1,0 +1,53 @@
+.mainContent {
+    background-color: #2e5186;
+    padding: 100px 40px 60px 40px;
+}
+
+.flexRowCenter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.maxWidth1140 {
+    max-width: 1140px;
+    text-align: center;
+}
+
+.contentCont1 {
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 20px 20px 60px 20px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 70px;
+    z-index: 9;
+}
+
+.imageContainer {
+    width: 50%;
+}
+
+.contentCont1Header {
+    font-weight: 800;
+    line-height: 1.25em;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.textAllignLeft {
+    text-align: left;
+}
+
+.contentCont1Text {
+    padding-top: 20px;
+    font-weight: 900;
+    line-height: 1.25em;
+    font-size: 60px;
+    color: #FFFFFF;
+}
+
+.section1-stock-img {
+    width: 570px;
+    height: 450px;
+}
